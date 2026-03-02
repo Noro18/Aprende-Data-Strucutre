@@ -1,6 +1,6 @@
 # Repositoriu Estrutura de Dados no Algoritmo
 
-Repository ida ne'e kontem material no problema pratica sira ba iha DSA (Data structure and Algorithm) 
+Repository ida ne'e kontem material no problema pratica sira ba iha DSA (Data structure and Algorithm)
 
 ## Objetivu husi Repository ida ne'e
 
