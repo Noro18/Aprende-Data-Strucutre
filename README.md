@@ -17,7 +17,7 @@ Enkoraja ita atu halo interasaun ativu ho repositoriu ida ne'e laos le'e deit.
 
 ## Oinsa atu uza repositoriu ida ne'e
 
-### Etapa 1 - Clone repositoriu ida ne'e ba ita nia komputador
+### Metodo 1 - Clone repositoriu ida ne'e ba ita nia komputador
 
 Cloning ka halo kopia ba ita nia komputador local rasik. 
 
@@ -29,7 +29,14 @@ git clone https://github.com/Noro18/Aprende-Data-Strucutre.git
 cd Aprende-Data-Strucutre
 ```
 
-Karik ita nia git seidauk iha ita bele download direita ho butaun ida ne'e 
+### Metodo B - Download Repositorio ida ne'e
 
-![screenshot_download_button](assets/screenshot_2026-02-28_11-51-32.png)
+Karik ita nia git seidauk iha ita bele download direita ho etapa 
+
+1. Click buttuan matak ho label `<> Code`
+2. Download ZIP
+
+Bele hare iha imagem kraik: 
+
+![screenshot_download_button](assets/screenshot_2026-03-19_19-21-53.png)
 
